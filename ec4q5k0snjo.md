@@ -1,2 +1,2 @@
 ## Observe the facts
-There are three relat
+There are three related 
