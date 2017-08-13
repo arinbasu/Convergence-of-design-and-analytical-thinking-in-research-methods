@@ -4,3 +4,4 @@ We will now expand the above concepts and add examples to show how this is effec
 2. If we are sure that the association is for real, is that association causal or is that association non-causal?
 
 How do we know that the association is a real association? In order to do that, we need to take care of three related entities:
+
