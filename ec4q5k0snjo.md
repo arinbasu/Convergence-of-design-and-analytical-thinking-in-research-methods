@@ -1,2 +1,2 @@
 ## Observe the facts
-The 
+The three 
