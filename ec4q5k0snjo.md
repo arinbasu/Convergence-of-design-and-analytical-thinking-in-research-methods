@@ -3,4 +3,4 @@ There are three related issues in research thinking that includes inductive and 
 
 1. Observe the facts as objectively as possible.
 2. Develop a theory that should explain the facts. This theory building should not be before observing the facts that will give rise to the theory. 
-3. It must be more than one theory: at least two, and as many as possible. There should not be a theoretical upper limit to how many theories we can 
+3. It must be more than one theory: at least two, and as many as possible. There should not be a theoretical upper limit to how many theories we can develop 
