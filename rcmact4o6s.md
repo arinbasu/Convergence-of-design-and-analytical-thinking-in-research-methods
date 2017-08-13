@@ -17,3 +17,4 @@ Then, once we have established that this association is one of real association,
 4. Temporality. -- Did the cause precede the outcome?
 5. Biological Gradient. -- As the cause increased in magnitude, was there a corresponding increase in the effect as well?
 6. Analogy
+7. 
