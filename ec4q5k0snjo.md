@@ -1,2 +1,2 @@
 ## Observe the facts
-There are three related issues in research thinking that includes inductive and deductive thinking and how we 
+There are three related issues in research thinking that includes inductive and deductive thinking and how we conduct 
