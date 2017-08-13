@@ -1,2 +1,2 @@
 ## Observe the facts
-Ther 
+There are three 
