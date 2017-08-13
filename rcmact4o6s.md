@@ -19,3 +19,4 @@ Then, once we have established that this association is one of real association,
 6. Analogy
 7. Experimental Evidence
 8. Repeatability
+9. 'cohere'
