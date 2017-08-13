@@ -14,4 +14,4 @@ Then, once we have established that this association is one of real association,
 1. Strength of Association. -- Strength here refers a composite of two entities: a measure of numerical association (in the form of relative risk or odds ratio), and a measure of prevalence of the exposure. If the strength of association is very high, and how high is very high is subjective, then we know that another factor, if that has to be an alternative cause, has to have even a higher strength to upstage the one we are considering.
 2. Consistency of observation. -- Now that we have observed that the association is not trivial, how consistently have we observed this. Have more than one researcher studied this and found similarity? Different populations?
 3. Specificity. -- Is the linkage very specific
-4. Temp
+4. Temporality
