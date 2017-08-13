@@ -7,4 +7,4 @@ How do we know that the association is a real association? In order to do that, 
 
 1. We must make sure that the association is not one of mere chance
 2. We must eliminate all forms of biases
-3. We must control fo 
+3. We must control for 
