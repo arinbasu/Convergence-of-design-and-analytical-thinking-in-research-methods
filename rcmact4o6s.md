@@ -15,4 +15,4 @@ Then, once we have established that this association is one of real association,
 2. Consistency of observation. -- Now that we have observed that the association is not trivial, how consistently have we observed this. Have more than one researcher studied this and found similarity? Different populations?
 3. Specificity. -- Is the linkage very specific
 4. Temporality. -- Did the cause precede the outcome?
-5. Biological Gradient. 
+5. Biological Gradient. -- 
