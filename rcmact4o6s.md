@@ -11,4 +11,4 @@ How do we know that the association is a real association? In order to do that, 
 
 Then, once we have established that this association is one of real association, we can apply the considerations that Austin Bradford Hill applied. These are as follows:
 
-1. Strength of Association. -- Strength here refers a composite of two entities: a measure of numerical association (in th)
+1. Strength of Association. -- Strength here refers a composite of two entities: a measure of numerical association (in the for)
