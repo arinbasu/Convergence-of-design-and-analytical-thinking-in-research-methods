@@ -2,4 +2,4 @@
 There are three related issues in research thinking that includes inductive and deductive thinking and how we conduct modern science. 
 
 1. Observe the facts as objectively as possible.
-2. Develop a theory that should explain the facts. 
+2. Develop a theory that should explain the facts. This 
