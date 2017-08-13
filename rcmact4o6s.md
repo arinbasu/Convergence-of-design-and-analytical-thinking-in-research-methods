@@ -1,1 +1,1 @@
-We will now expand the above concepts and add examples to show 
+We will now expand the above concepts and add examples to show how this is 
