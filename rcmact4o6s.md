@@ -9,4 +9,4 @@ How do we know that the association is a real association? In order to do that, 
 2. We must eliminate all forms of biases
 3. We must control for confounding variables 
 
-Then, once we have established that this association is one of real association, we can apply the considerations that Austin 
+Then, once we have established that this association is one of real association, we can apply the considerations that Austin B
