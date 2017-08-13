@@ -1,1 +1,1 @@
-We will now expand the 
+We will now expand the above concepts and add 
