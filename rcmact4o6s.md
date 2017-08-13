@@ -5,4 +5,4 @@ We will now expand the above concepts and add examples to show how this is effec
 
 How do we know that the association is a real association? In order to do that, we need to take care of three related entities:
 
-1. We must make sure that the
+1. We must make sure that the assoc
